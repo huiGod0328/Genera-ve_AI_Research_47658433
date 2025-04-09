@@ -4,7 +4,7 @@ This repository contains structured materials for a generative AI-focused resear
 
 ---
 
-## 📁 Folder Overview
+##Folder Overview
 
 - **Literature Review documents**  
   → Journal articles, academic sources, background theory
@@ -23,7 +23,7 @@ This repository contains structured materials for a generative AI-focused resear
 
 ---
 
-## 🔎 How to Use
+##  How to Use
 
 - Browse folders by topic category (e.g., “Quantitative Analysis” for survey files)
 - Filenames are descriptive (e.g., `survey_data_v2.csv`, `interview_Eric.docx`)
@@ -31,8 +31,14 @@ This repository contains structured materials for a generative AI-focused resear
 
 ---
 
-## 🤝 Contribution Guidelines
+##  Contribution Guidelines
 
-1. **Branch your feature**  
+1. Branch your feature
    ```bash
    git checkout -b feature/your-change
+2. Commit your changes with a clear message
+  git commit -m "Add cleaned dataset and updated script"
+3. Push the branch and create a pull request
+  git push origin feature/your-change
+
+
