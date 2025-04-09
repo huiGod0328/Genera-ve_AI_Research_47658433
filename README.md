@@ -1,1 +1,3 @@
-# Genera-ve_AI_Research_47658433
+# AI_Research
+
+all data for the project
