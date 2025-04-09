@@ -1,3 +1,38 @@
-# AI_Research
+# Generative AI Research 47658433
 
-all data for the project
+This repository contains structured materials for a generative AI-focused research project. The content is organized for clarity, reproducibility, and collaboration among team members.
+
+---
+
+## 📁 Folder Overview
+
+- **Literature Review documents**  
+  → Journal articles, academic sources, background theory
+
+- **Quantitative Analysis**  
+  → Survey results, `.csv`/`.xls` data, Python scripts, charts
+
+- **Qualitative Analysis**  
+  → Interview transcripts, consent forms, insight reports
+
+- **Drafts and Reports**  
+  → Research proposals, submission-ready papers, presentations
+
+- **Additional Materials**  
+  → Photos, figures, information sheets, supplementary documents
+
+---
+
+## 🔎 How to Use
+
+- Browse folders by topic category (e.g., “Quantitative Analysis” for survey files)
+- Filenames are descriptive (e.g., `survey_data_v2.csv`, `interview_Eric.docx`)
+- `.DS_Store` and system files are ignored in `.gitignore`
+
+---
+
+## 🤝 Contribution Guidelines
+
+1. **Branch your feature**  
+   ```bash
+   git checkout -b feature/your-change
